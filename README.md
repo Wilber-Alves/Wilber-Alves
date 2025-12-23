@@ -31,10 +31,9 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="github-readme-stats.vercel.app/api?username=Wilber-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="github-readme-stats.vercel.app/top-langs/?username=Wilber-Alves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+![Wilber's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilber-alves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilber-alves&show_icons=true&theme=tokyonight)
 
 ---
 
