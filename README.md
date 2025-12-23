@@ -25,6 +25,8 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
   <img width="45px" src="https://yt3.googleusercontent.com/2LuSURNwXSKmOhM_Zm-CFbfketAIktL_IUsp73fbB63nFsDrqSnF81Hpk-MKfjsFa45NKa1OLg=s900-c-k-c0x00ffffff-no-rj" alt="Machinations">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VS">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub">
+
+  ![bacteria_0](https://github.com/user-attachments/assets/c254e9d6-b1ac-4aae-8858-4aa081fd71f9)
 </p>
 
 ---
