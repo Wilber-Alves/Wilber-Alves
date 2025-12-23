@@ -10,29 +10,30 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
 
 **Linguagens:**
 <p align="left">
-  <img src="img.shields.io" alt="C#">
-  <img src="img.shields.io" alt="Lua">
+<img width="45px" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#">
+<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png?20150107024942" alt="Lua">
+
 </p>
 
 **Ferramentas e Engines:**
 <p align="left">
-  <img src="img.shields.io" alt="Unity">
-  <img src="img.shields.io" alt="PICO-8">
-  <img src="img.shields.io" alt="Aseprite">
-  <img src="img.shields.io" alt="Blender">
-  <img src="img.shields.io" alt="VS">
-  <img src="img.shields.io" alt="GitHub">
+  <img width="45px" src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="Unity">
+  <img width="45px" src="https://marketplacecdn.yoyogames.com/images/assets/7640/icon/1543868491_large.jpg?1543868491" alt="PICO-8">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" alt="Aseprite">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" alt="Blender">
+<img width="45px" src="https://play-lh.googleusercontent.com/NhCyAfBxD4IxFm8PnEFQRIOPuDvFwHfRDcmQTmcB0MTZehmj2-eopKGY2xQKYNtI" alt="BambooPaper">
+  <img width="45px" src="https://yt3.googleusercontent.com/2LuSURNwXSKmOhM_Zm-CFbfketAIktL_IUsp73fbB63nFsDrqSnF81Hpk-MKfjsFa45NKa1OLg=s900-c-k-c0x00ffffff-no-rj" alt="Machinations">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VS">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub">
 </p>
-
-*Outras competências: Machinations, Bamboo Paper.*
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="github-readme-stats.vercel.app" />
-  <img height="180em" src="github-readme-stats.vercel.app" />
+  <img height="180em" src="github-readme-stats.vercel.app/api?username=Wilber-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="github-readme-stats.vercel.app/top-langs/?username=Wilber-Alves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 ---
@@ -41,12 +42,12 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
 
 <p align="left">
   <a href="mailto:wilber.alves@cefet-rj.br">
-    <img src="img.shields.io" alt="E-mail">
+    <img width="45px"src="https://cdn.pixabay.com/photo/2023/03/13/20/13/button-7850700_640.png" alt="E-mail">
   </a>
   <a href="http://lattes.cnpq.br/4981140380227407" target="_blank">
-    <img src="img.shields.io" alt="Lattes">
+    <img width="45px" src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" alt="Lattes">
   </a>
   <a href="https://integra.cefet-rj.br/p/wilber-de-sousa-alves" target="_blank">
-    <img src="img.shields.io" alt="Integra CEFET">
+    <img width="180px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk3eHjBpv2oB11MAAW6SHzJHdiy7aDS8LiQ&s" alt="Integra CEFET">
   </a>
 </p>
