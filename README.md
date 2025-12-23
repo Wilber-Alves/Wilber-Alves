@@ -2,7 +2,7 @@
 
 Sou professor EBTT 40h DE de Biologia no **CEFET/RJ – Maracanã**, Mestre e Doutor em Ciências-Bioquímica pela **UFRJ** e especialista em Educação Digital pelo **SENAI/SC**. 
 
-Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno da **EBAC** (Profissão: Game Designer e Desenvolvedor Unity), **ECDD** (Tecnólogo em Jogos Digitais) e **EduTec-UFSCar** (Pós-graduacao _lato sensu_ Educação e Tecnologias - Hab. em Jogos, Gamificação e Inovação na Educação). Coordeno o Projeto de Ensino **EDGEE/OIKSTUDIO**, um estúdio independente de desenvovimento de *Serious Games* e *Edutainment* com foco em biologia e ciências ambientais.
+Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno da **EBAC** (Profissão: Game Designer e Desenvolvedor Unity), **ECDD** (Tecnólogo em Jogos Digitais) e **EduTec-UFSCar** (Pós-graduacao _lato sensu_ Educação e Tecnologias - Hab. em Jogos, Gamificação e Inovação na Educação). Coordeno o Projeto de Ensino **EDGEE/OIKSTUDIO**, um estúdio independente de desenvovimento de *Serious Games* e *Edutainment* com foco em Biologia e Ciências Ambientais.
 
 ---
 
