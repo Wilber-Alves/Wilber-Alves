@@ -33,11 +33,11 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
 
 ### 📊 Estatísticas do GitHub
 
-![Wilber's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilber-alves&show_icons=true&theme=tokyonight&locale=en)
+![Wilber's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilber-alves&show_icons=true&theme=tokyonight&locale=en).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilber-alves&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilber-alves&show_icons=true&theme=tokyonight).
 
-![Visualizações do Perfil](komarev.com)
+![Visualizações do Perfil](komarev.com).
 
 ---
 
