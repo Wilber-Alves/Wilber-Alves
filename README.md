@@ -37,6 +37,8 @@ Atualmente, foco meus estudos na área de desenvolvimento de jogos, como aluno d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilber-alves&show_icons=true&theme=tokyonight)
 
+![Visualizações do Perfil](komarev.com)
+
 ---
 
 ### 📫 Contato e produção acadêmica
