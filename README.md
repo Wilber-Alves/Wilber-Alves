@@ -7,10 +7,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wilber-alves&color=yellow&abbreviated=true)
 
 <p>
-<img align="right" width="180" height="180" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33" />
+<img align="Right" width="100" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33" />
 </p>
 
----
 ---
 
 ### 🕹️ Game Development & Technologies
