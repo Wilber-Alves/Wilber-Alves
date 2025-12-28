@@ -5,8 +5,12 @@
   Currently, I focus my studies on game development, as a student at **EBAC** (Profession: Game Designer and Unity Developer), **ECDD** (Digital Games Technologist), and **EduTec-UFSCar** (Postgraduate _lato sensu_ Education and Technologies - Specialization in Games, Gamification and Innovation in Education). I coordinate the **EDGEE/OIKSTUDIO** Teaching Project, an independent studio for the development of *Serious Games* and *Edutainment* focused on Biology and Environmental Sciences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wilber-alves&color=yellow&abbreviated=true)
-<img align="right" width="180" height="180" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33" />
 
+<p>
+<img align="right" width="180" height="180" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33" />
+</p>
+
+---
 ---
 
 ### 🕹️ Game Development & Technologies
