@@ -3,8 +3,6 @@
 
   I'm a 40-hour full-time EBTT Biology teacher at **[CEFET/RJ – Maracanã](https://www.cefet-rj.br "Federal Center for Technological Education Celso Suckow da Fonseca")**, with a Master's and Doctorate in Biochemistry from **[UFRJ](https://www.iq.ufrj.br "Federal University of Rio de Janeiro")** and a specialization in Digital Education from **[SENAI/SC](https://cursos.sesisenai.org.br/pos-graduacao/posgraduacao-em-educacao-digital/367 "National Service for Industrial Training - Santa Catarina")**. Currently, I focus my studies on game development, as a student at **[EBAC](https://ebaconline.com.br "British School of Creative Arts & Technology")** (Profession: Game Designer and Unity Developer), **[ECDD](www.ecdd.com.br "School of Computing and Digital Development")** (Digital Games Technologist), and **[EduTec-UFSCar](https://www.edutec.ufscar.br "Education and Technologies Postgraduate Program at UFSCar")** (Postgraduate _lato sensu_ Education and Technologies - Specialization in Games, Gamification and Innovation in Education). I coordinate the **EDGEE/OIKSTUDIO** Teaching Project, an independent studio for the development of *Serious Games* and *Edutainment* focused on Biology and Environmental Sciences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wilber-Alves&color=yellow&abbreviated=true)
-
 <p>
 <img align="Right" width="100" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33" />
 </p>
