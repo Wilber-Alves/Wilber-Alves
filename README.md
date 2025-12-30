@@ -36,7 +36,7 @@
 ### ⚡ Prototypes and Projects
 <p align="left">
   
-🦠**Beakers and Bacteria - Game Developed in PICO-8**
+🦠**Beakers & Bacteria - Game Developed in PICO-8**
 
 ![bacteria_0](https://github.com/user-attachments/assets/c254e9d6-b1ac-4aae-8858-4aa081fd71f9)
 
