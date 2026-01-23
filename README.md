@@ -28,6 +28,7 @@
   <img width="45px" src="https://yt3.googleusercontent.com/2LuSURNwXSKmOhM_Zm-CFbfketAIktL_IUsp73fbB63nFsDrqSnF81Hpk-MKfjsFa45NKa1OLg=s900-c-k-c0x00ffffff-no-rj" alt="Machinations" title="Machinations (Game Economy)">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VS" title="Visual Studio 2022">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" title="GitHub Desktop">
+  <img width="45px" src="https://images.icon-icons.com/278/PNG/512/Sibelius_30198.png" alt="Sibelius" title="Sibelius">
 
 </p>
 
