@@ -22,7 +22,7 @@
 <p align="left">
   <img width="45px" src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="Unity" title="Unity Engine">
   <img width="45px" src="https://marketplacecdn.yoyogames.com/images/assets/7640/icon/1543868491_large.jpg?1543868491" alt="PICO-8" title="PICO-8 Fantasy Console">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" alt="Aseprite" title="Aseprite (Pixel Art)">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/250px-Logo_Aseprite.svg.png" alt="Aseprite" title="Aseprite (Pixel Art)">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender (3D Modeling)">
   <img width="45px" src="https://play-lh.googleusercontent.com/NhCyAfBxD4IxFm8PnEFQRIOPuDvFwHfRDcmQTmcB0MTZehmj2-eopKGY2xQKYNtI" alt="BambooPaper" title="Bamboo Paper (Sketching)">
   <img width="45px" src="https://yt3.googleusercontent.com/2LuSURNwXSKmOhM_Zm-CFbfketAIktL_IUsp73fbB63nFsDrqSnF81Hpk-MKfjsFa45NKa1OLg=s900-c-k-c0x00ffffff-no-rj" alt="Machinations" title="Machinations (Game Economy)">
