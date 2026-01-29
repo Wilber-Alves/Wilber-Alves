@@ -49,7 +49,7 @@
 
 ❄️🔥**EBAC-Plataformer-2D - Project Developed in Unity 2D**
 
-![EBAC_Plataformer_2D](https://github.com/user-attachments/assets/5be299a9-052d-4a9f-bb2a-ae41e093e7e1)
+![EBAC_Plataformer_2D](https://github.com/user-attachments/assets/148263b5-9f88-4726-847f-0c2df1d730dd)
 
 🏓**Pong Clone - Project Developed in Unity 2D**
 
