@@ -47,7 +47,7 @@
 
 ![aMAZEcells](https://github.com/user-attachments/assets/1bd71175-a7a9-47c8-a14b-a396ea8afc5c)
 
-❄️🔥**Platformer-2D - Project Developed in Unity 2D** 
+❄️🔥**Platformer-2D - Project Developed in Unity 2D** PLAY - https://wilber-alves.itch.io/chill-will-chill-prototype (Link to the game prototype on itch.io)
 
 ![EBAC_Platformer_2D](https://github.com/user-attachments/assets/148263b5-9f88-4726-847f-0c2df1d730dd)
 
