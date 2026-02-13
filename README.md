@@ -45,7 +45,7 @@
 
 📱**Mobile_Hypercasual_Game - Game Developed in Unity 3D**
 
-<img width="400" src="https://github.com/user-attachments/assets/24872eec-ee7f-4ac0-a9fc-b4e22f7bd06d"/>
+<img width="400" src="https://github.com/user-attachments/assets/44d6ca3e-f594-490c-a01c-68eb17a434d8"/>
 
 🧫**aMAZEcells - Game Developed in Unity 3D**
 
