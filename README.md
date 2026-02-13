@@ -43,7 +43,7 @@
 
 ![chill_plataforma_0](https://github.com/user-attachments/assets/2cd3484f-fdfc-4485-b992-ef61e17caf57)
 
-📱**Mobile_Hypercasual_Game - "Drug Delivery Rush" Game Developed in Unity 3D**
+📱**Mobile_Hypercasual_Game - "Pill Delivery Rush" Game Developed in Unity 3D**
 
 <img width="400" src="https://github.com/user-attachments/assets/44d6ca3e-f594-490c-a01c-68eb17a434d8"/>
 
