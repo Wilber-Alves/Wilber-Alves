@@ -1,7 +1,7 @@
 # Hi there, I'm Wilber Alves 🧪🌍🌿🧬🔬🕹️💻
 <img align="left" width="130" height="190" alt="Prof Will" src="https://github.com/user-attachments/assets/2896018e-456b-4053-84e3-0c90264b7198"/>
 
-  I'm a 40-hour full-time EBTT Biology teacher at **[CEFET/RJ – Maracanã](https://www.cefet-rj.br "Federal Center for Technological Education Celso Suckow da Fonseca")**, with a Master's and Doctorate in Biochemistry from **[UFRJ](https://www.iq.ufrj.br "Federal University of Rio de Janeiro")** and a specialization in Digital Education from **[SENAI/SC](https://cursos.sesisenai.org.br/pos-graduacao/posgraduacao-em-educacao-digital/367 "National Service for Industrial Training - Santa Catarina")**. Currently, I focus my studies on game development, as a student at **[EBAC](https://ebaconline.com.br "British School of Creative Arts & Technology")** (Profession: Game Designer and Unity Developer), **[ECDD](https://ecdd.com.br/faculdade/jogos-digitais-ead/ "School of Computing and Digital Development")** (Digital Games Technologist), and **[EduTec-UFSCar](https://www.edutec.ufscar.br "Education and Technologies Postgraduate Program at UFSCar")** (Postgraduate _lato sensu_ Education and Technologies - Specialization in Games, Gamification and Innovation in Education). I coordinate the **EDGEE/OIKSTUDIO** Teaching Project, an independent studio for the development of *Serious Games* and *Edutainment* focused on Biology and Environmental Sciences.
+  I'm a 40-hour full-time EBTT Biology teacher at **[CEFET/RJ – Maracanã](https://www.cefet-rj.br "Federal Center for Technological Education Celso Suckow da Fonseca")**, with a Master's and Doctorate in Biochemistry from **[UFRJ](https://www.iq.ufrj.br "Federal University of Rio de Janeiro")** and a specialization in Digital Education from **[UniSENAI/SC](https://cursos.sesisenai.org.br/pos-graduacao/posgraduacao-em-educacao-digital/367 "National Service for Industrial Training - Santa Catarina")**. Currently, I focus my studies on game development, as a student at **[EBAC](https://ebaconline.com.br "British School of Creative Arts & Technology")** (Profession: Game Designer and Unity Developer), **[ECDD](https://ecdd.com.br/faculdade/jogos-digitais-ead/ "School of Computing and Digital Development")** (Digital Games Technologist), and **[EduTec-UFSCar](https://www.edutec.ufscar.br "Education and Technologies Postgraduate Program at UFSCar")** (Postgraduate _lato sensu_ Education and Technologies - Specialization in Games, Gamification and Innovation in Education). I coordinate the **EDGEE/OIKSTUDIO** Teaching Project, an independent studio for the development of *Serious Games* and *Edutainment* focused on Biology and Environmental Sciences.
 
 <p>
 <img align="Right" width="100" alt="Estudio Logo" src="https://github.com/user-attachments/assets/4c7209e0-cfe8-4471-acbf-90ae7fb71f33"/>
@@ -11,26 +11,50 @@
 
 ### 🕹️ Game Development & Technologies
 
-**Languages:**
+💾 **Languages:**
 <p align="left">
-<img width="45px" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" title="C# Language">
-<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png?20150107024942" alt="Lua" title="Lua Scripting">
+<img width="45px" src="Icons/CSharp.png" alt="C#" title="C# Language">
+   &nbsp;&nbsp;
+<img width="45px" src="Icons/Lua.png" alt="Lua" title="Lua Scripting">
 
 </p>
 
-
-🛠️⚙️**Tools and Engines:**
+⚙️ **Engines:**
 <p align="left">
-  <img width="45px" src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="Unity" title="Unity Engine">
-  <img width="45px" src="https://marketplacecdn.yoyogames.com/images/assets/7640/icon/1543868491_large.jpg?1543868491" alt="PICO-8" title="PICO-8 Fantasy Console">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/250px-Logo_Aseprite.svg.png" alt="Aseprite" title="Aseprite (Pixel Art)">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender (3D Modeling)">
-  <img width="45px" src="https://play-lh.googleusercontent.com/NhCyAfBxD4IxFm8PnEFQRIOPuDvFwHfRDcmQTmcB0MTZehmj2-eopKGY2xQKYNtI" alt="BambooPaper" title="Bamboo Paper (Sketching)">
-  <img width="45px" src="https://yt3.googleusercontent.com/2LuSURNwXSKmOhM_Zm-CFbfketAIktL_IUsp73fbB63nFsDrqSnF81Hpk-MKfjsFa45NKa1OLg=s900-c-k-c0x00ffffff-no-rj" alt="Machinations" title="Machinations (Game Economy)">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VS" title="Visual Studio 2022">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" title="GitHub Desktop">
-  <img width="45px" src="https://images.icon-icons.com/278/PNG/512/Sibelius_30198.png" alt="Sibelius" title="Sibelius">
+  <img width="45px" src="Icons/unity.png" alt="Unity" title="Unity Engine">
+   &nbsp;&nbsp;
+  <img width="45px" src="Icons/pico-8.png" alt="PICO-8" title="PICO-8 Fantasy Console">
+   &nbsp;&nbsp;
+  <img width="45px" src="Icons/RPGMaker2003.png" alt="RPGMaker2003" title="RPGMaker2003">
+</p>
 
+🛠️ **Tools:**
+<p align="left">
+  <img width="45px" src="Icons/Aseprite.png" alt="Aseprite" title="Aseprite (Pixel Art)">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/blender.png" alt="Blender" title="Blender (3D Modeling)">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/BambooPaper.png" alt="BambooPaper" title="Bamboo Paper (Sketching)">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/Machinations.png" alt="Machinations" title="Machinations (Game Economy)">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/VisualStudio.png" alt="VS" title="Visual Studio 2022">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/GitHub.png" alt="GitHub" title="GitHub Desktop">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/Sibelius.png" alt="Sibelius" title="Sibelius">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/Procreate.png" alt="Procreate" title="Procreate">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/figma.png" alt="Figma" title="Figma">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/adobe-photoshop-icon.png" alt="Adobe Photoshop" title="Photoshop">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/adobe-character-animator-icon.png" alt="Adobe Character Animator" title="Character Animator">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/adobe-after-effects-icon.png" alt="Adobe After Effects" title="After Effects">
+     &nbsp;&nbsp;
+  <img width="45px" src="Icons/adobe-illustrator-icon.png" alt="Adobe Ilustrator" title="Ilustrator">
 </p>
 
 ### ⚡ Prototypes and Projects
@@ -66,17 +90,12 @@
 ### 📫 Contact and academic production
 
 <p align="left">
-  <a href="mailto:wilber.alves@cefet-rj.br">
-    <img width="45px"src="https://cdn.pixabay.com/photo/2023/03/13/20/13/button-7850700_640.png" alt="E-mail" title="Send email to Wilber Alves">
-  </a>
-  <a href="http://lattes.cnpq.br/4981140380227407" target="_blank">
-    <img width="45px" src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" alt="Lattes" title="View Lattes Curriculum (CNPq)">
-  </a>
-  <a href="https://integra.cefet-rj.br/p/wilber-de-sousa-alves" target="_blank">
-    <img width="180px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk3eHjBpv2oB11MAAW6SHzJHdiy7aDS8LiQ&s" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ">
-  </a>
-    <a href="https://www.linkedin.com/in/wilber-de-sousa-alves-46778631/" target="_blank">
-    <img width="180px"src="" alt="LinkedIn" title="View LinkedIn">
-  </a>
+  <a href="mailto:wilber.alves@cefet-rj.br"><img width="64px" src="Icons/Mail.png" alt="E-mail" title="Send email to Wilber Alves"></a>
+  &nbsp;&nbsp;
+  <a href="http://cnpq.br" target="_blank"><img width="64px" src="Icons/Lattes.png" alt="Lattes" title="View Lattes Curriculum (CNPq)"></a>
+  &nbsp;&nbsp;
+  <a href="https://cefet-rj.br" target="_blank"><img width="64px" src="Icons/Work.png" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ"></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
 </p>
 
