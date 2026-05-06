@@ -14,11 +14,11 @@
 <p align="left">
   <a href="mailto:wilber.alves@cefet-rj.br"><img width="64px" src="Icons/Mail.png" alt="E-mail" title="Send email to Wilber Alves"></a>
   &nbsp;&nbsp;
-  <a href="http://cnpq.br" target="_blank"><img width="64px" src="Icons/Lattes.png" alt="Lattes" title="View Lattes Curriculum (CNPq)"></a>
+  <a href="http://lattes.cnpq.br/4981140380227407" target="_blank"><img width="64px" src="Icons/Lattes.png" alt="Lattes" title="View Lattes Curriculum (CNPq)"></a>
   &nbsp;&nbsp;
-  <a href="https://cefet-rj.br" target="_blank"><img width="64px" src="Icons/Work.png" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ"></a>
+  <a href="https://integra.cefet-rj.br/p/wilber-de-sousa-alves" target="_blank"><img width="64px" src="Icons/Work.png" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ"></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
+  <a href="www.linkedin.com/in/wilber-de-sousa-alves-46778631" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
 </p>
 
 ---
