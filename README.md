@@ -39,7 +39,7 @@
    &nbsp;&nbsp;
   <img width="45px" src="Icons/pico-8.png" alt="PICO-8" title="PICO-8 Fantasy Console">
    &nbsp;&nbsp;
-  <img width="45px" src="Icons/RPGMaker2003.png" alt="RPGMaker2003" title="RPGMaker2003">
+  <img width="45px" src="Icons/RPGMaker2003.png" alt="RPGMaker2003" title="RPGMaker2003 - (So many memories, lol.)">
 </p>
 
 🛠️ **Tools:**
