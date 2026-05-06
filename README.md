@@ -9,6 +9,20 @@
 
 ---
 
+### 💼 Contact and academic production
+
+<p align="left">
+  <a href="mailto:wilber.alves@cefet-rj.br"><img width="64px" src="Icons/Mail.png" alt="E-mail" title="Send email to Wilber Alves"></a>
+  &nbsp;&nbsp;
+  <a href="http://cnpq.br" target="_blank"><img width="64px" src="Icons/Lattes.png" alt="Lattes" title="View Lattes Curriculum (CNPq)"></a>
+  &nbsp;&nbsp;
+  <a href="https://cefet-rj.br" target="_blank"><img width="64px" src="Icons/Work.png" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ"></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
+</p>
+
+---
+
 ### 🕹️ Game Development & Technologies
 
 💾 **Languages:**
@@ -57,6 +71,8 @@
   <img width="45px" src="Icons/adobe-illustrator-icon.png" alt="Adobe Ilustrator" title="Ilustrator">
 </p>
 
+---
+
 ### ⚡ Prototypes and Projects
 <p align="left">
   
@@ -87,15 +103,4 @@
 </p>
 
 ---
-### 📫 Contact and academic production
-
-<p align="left">
-  <a href="mailto:wilber.alves@cefet-rj.br"><img width="64px" src="Icons/Mail.png" alt="E-mail" title="Send email to Wilber Alves"></a>
-  &nbsp;&nbsp;
-  <a href="http://cnpq.br" target="_blank"><img width="64px" src="Icons/Lattes.png" alt="Lattes" title="View Lattes Curriculum (CNPq)"></a>
-  &nbsp;&nbsp;
-  <a href="https://cefet-rj.br" target="_blank"><img width="64px" src="Icons/Work.png" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ"></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
-</p>
 
