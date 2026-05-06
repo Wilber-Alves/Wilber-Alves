@@ -74,7 +74,7 @@
   <a href="https://integra.cefet-rj.br/p/wilber-de-sousa-alves" target="_blank">
     <img width="180px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk3eHjBpv2oB11MAAW6SHzJHdiy7aDS8LiQ&s" alt="Integra CEFET" title="Professor's Profile at Integra CEFET/RJ">
   </a>
-    <a href="www.linkedin.com/in/wilber-de-sousa-alves-46778631" target="_blank">
+    <a href="https://www.linkedin.com/in/wilber-de-sousa-alves-46778631/" target="_blank">
     <img width="180px"src="" alt="LinkedIn" title="View LinkedIn">
   </a>
 </p>
