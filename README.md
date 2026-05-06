@@ -54,6 +54,8 @@
      &nbsp;&nbsp;
   <img width="45px" src="Icons/VisualStudio.png" alt="VS" title="Visual Studio 2022">
      &nbsp;&nbsp;
+    <img width="45px" src="Icons/VSCode.png" alt="VS" title="Visual Studio 2022">
+     &nbsp;&nbsp;
   <img width="45px" src="Icons/GitHub.png" alt="GitHub" title="GitHub Desktop">
      &nbsp;&nbsp;
   <img width="45px" src="Icons/Sibelius.png" alt="Sibelius" title="Sibelius">
