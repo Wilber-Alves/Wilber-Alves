@@ -110,3 +110,14 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Wilber-Alves&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+ 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wilber-Alves&layout=compact&theme=dark)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Wilber-Alves&theme=dark)
+
+## 📈 Gráfico de Contribuições
+ 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilber-Alves&theme=github-compact)
