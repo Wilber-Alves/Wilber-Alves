@@ -116,7 +116,7 @@
  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wilber-Alves&layout=compact&theme=gruvbox&v=20260717)
  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Wilber-Alves&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Wilber-Alves&theme=gruvbox&v=20260717)
 
 ## 📈 Contribution Graph
  
