@@ -90,7 +90,7 @@
 
 <img width="400" src="https://github.com/user-attachments/assets/c2994ad8-3904-4592-9b30-67994a5346db"/>
 
-🧫**aMAZEcells - Game Developed in Unity 3D**
+🧫**aMAZEcells - Game Developed in Unity 3D** - - - PLAY - https://wilber-alves.itch.io/amazecells (link to the game prototype on itch.io)
 
 ![aMAZEcells](https://github.com/user-attachments/assets/1bd71175-a7a9-47c8-a14b-a396ea8afc5c)
 
@@ -102,7 +102,7 @@
 
 ![Pong_Clone](https://github.com/user-attachments/assets/7d0c76e9-7472-4050-a073-891b7691bbdb)
 
-🕹️** Adventure 3D Game - Project Developed in Unity 2D**
+🕹️**Adventure 3D Game - Project Developed in Unity 2D**
 
 ![Adventure 3D Game](https://github.com/user-attachments/assets/48ceac97-68f8-438b-845d-f80dedcb2366)
 
