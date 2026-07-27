@@ -118,6 +118,3 @@
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Wilber-Alves&theme=gruvbox&v=20260717)
 
-## 📈 Contribution Graph
- 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilber-Alves&theme=github-compact&v=20260717)
