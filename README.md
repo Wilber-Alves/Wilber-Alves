@@ -120,4 +120,4 @@
 
 ## 📈 Contribution Graph
  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilber-Alves&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilber-Alves&theme=github-compact&v=20260717)
