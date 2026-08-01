@@ -70,7 +70,6 @@
      &nbsp;&nbsp;
   <img width="45px" src="Icons/adobe-after-effects-icon.png" alt="Adobe After Effects" title="After Effects">
      &nbsp;&nbsp;
-  <img width="45px" src="Icons/adobe-illustrator-icon.png" alt="Adobe Ilustrator" title="Ilustrator">
 </p>
 
 ---
