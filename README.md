@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### 💼 Contact and academic production
 
 <p align="left">
@@ -20,7 +19,6 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/wilber-de-sousa-alves-46778631/" target="_blank"><img width="64px" src="Icons/LinkedIn.png" alt="LinkedIn" title="View LinkedIn"></a>
 </p>
-
 ---
 
 ### 🕹️ Game Development & Technologies
