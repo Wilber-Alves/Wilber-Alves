@@ -111,9 +111,5 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Wilber-Alves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&v=20260717)
- 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wilber-Alves&layout=compact&theme=gruvbox&v=20260717)
- 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Wilber-Alves&theme=gruvbox&v=20260717)
 
